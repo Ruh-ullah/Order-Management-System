@@ -27,7 +27,7 @@ This project is useful for:
 It is especially helpful for beginners and students learning C++.
 
 ---
-
+<img width="873" height="433" alt="Image" src="https://github.com/user-attachments/assets/6c5dc3f1-d0d9-4358-9147-c22de1d42e57" />
 ## How users can get started with the project
 1. Make sure you have a C++ compiler installed (such as GCC or MinGW).
 2. Copy the source code into a file named `restaurant.cpp`.
