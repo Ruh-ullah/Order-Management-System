@@ -12,6 +12,7 @@ It allows users to:
 - Apply discounts based on total amount
 - Add service charges
 - Display the final payable amount
+- <img width="851" height="452" alt="Image" src="https://github.com/user-attachments/assets/ee4ccfab-3e09-4fbc-b430-599979f9a436" />
 
 The program uses arrays, loops, functions, and basic input/output operations.
 
