@@ -1,6 +1,6 @@
 # Order-Management-System
 # Restaurant Ordering System (C++)
-
+<img width="854" height="461" alt="Image" src="https://github.com/user-attachments/assets/e5657268-4590-4b4c-8df8-db5a7cbda0ba" />
 ## What the project does
 This project is a console based Restaurant Ordering System written in C++.  
 It allows users to:
